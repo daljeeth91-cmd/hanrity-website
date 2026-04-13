@@ -1,9 +1,7 @@
-<h1 align="center">🌐 HanRity</h1>
-
 <p align="center">
-<b>Learn Digital Skills. Build Your Future.</b><br>
-Learn. Grow. Infinity.
+<img src="https://raw.githubusercontent.com/daljeeth91-cmd/hanrity-website/main/hanrity.jpg" width="120"/>
 </p>
+
 
 ---
 
