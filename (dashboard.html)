@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HanRity Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="dashboard">
+
+  <h1>Welcome to HanRity</h1>
+
+  <div class="cards">
+
+    <div class="card">
+      <h3>AI Mastery</h3>
+      <p>Unlock AI skills</p>
+    </div>
+
+    <div class="card">
+      <h3>Freelancing</h3>
+      <p>Start earning</p>
+    </div>
+
+    <div class="card">
+      <h3>Design & Editing</h3>
+      <p>Creative skills</p>
+    </div>
+
+  </div>
+
+  <button onclick="logout()">Logout</button>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
