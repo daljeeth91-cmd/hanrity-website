@@ -154,3 +154,48 @@ body {
   padding: 20px;
   border-radius: 10px;
 }
+.login-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #0F0F1A;
+}
+
+.login-box {
+  background: #1c1c2e;
+  padding: 20px;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 300px;
+  text-align: center;
+}
+
+.login-box input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.login-box button {
+  background: #F76400;
+  color: white;
+  padding: 10px;
+  width: 100%;
+  border: none;
+}
+
+/* MOBILE FIX */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+  }
+
+  .main {
+    margin: 0;
+  }
+}
